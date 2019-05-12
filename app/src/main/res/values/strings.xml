@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GiftsAndroid</string>
+
+    <string name="giftsList">Список подарков</string>
+    <string name="likedGifts">Понравившиеся подарки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_sign_in_short">Вход</string>
+    <string name="sign_in">Войти</string>
+    <string name="register_text">Зарегистрируйтесь</string>
+    <string name="login_icon">login</string>
+    <string name="register_username">Введите ваше имя</string>
+    <string name="register_email">Введите email</string>
+    <string name="register_password">Введите пароль</string>
+    <string name="register_confirm_password">Подтвердите пароль</string>
+    <string name="register_buttom">Регистрация</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="new_password">Введите новый пароль</string>
+</resources>
